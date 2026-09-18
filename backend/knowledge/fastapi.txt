@@ -1,0 +1,15 @@
+FastAPI 是一个用于构建 Web API 的 Python Web 框架。
+
+FastAPI 支持使用 Python 类型提示定义接口参数。
+
+FastAPI 可以通过装饰器定义 API 路由。
+
+@app.get() 可以定义 GET 请求接口。
+
+@app.post() 可以定义 POST 请求接口。
+
+@app.put() 可以定义 PUT 请求接口。
+
+@app.delete() 可以定义 DELETE 请求接口。
+
+FastAPI 通常使用 Uvicorn 运行。
