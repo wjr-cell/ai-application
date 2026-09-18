@@ -1,6 +1,6 @@
 # AI Application Platform
 
-一个基于 FastAPI、MySQL、DeepSeek、RAG 和 FAISS 构建的 AI 对话应用。
+一个基于 FastAPI、MySQL、DeepSeek、RAG 和 FAISS 构建的全栈 AI 对话应用，支持用户认证、多会话管理、聊天记录持久化、知识库上传、向量检索和基于知识库的 AI 问答。
 
 项目实现了从用户注册登录、会话管理、知识库上传，到基于知识库的 AI 问答的完整流程，并通过前后端分离的方式组织项目结构。
 
