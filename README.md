@@ -60,7 +60,8 @@
 
 无需手动重新启动后端即可使用新知识。
 
-5. 后端工程化
+###5. 后端工程化
+
 FastAPI
 MySQL
 JWT Authentication
@@ -169,7 +170,22 @@ ai-application/
 │
 ├── .gitignore
 └── README.md
-API
+
+## 项目截图
+
+### AI 对话界面
+
+![AI Chat](chat.png)
+
+### RAG 知识库问答
+
+![RAG Chat](rag.png)
+
+### Swagger API 文档
+
+![Swagger API](swagger.png)
+
+## API
 
 主要 API：
 
